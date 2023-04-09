@@ -1,5 +1,9 @@
+# 概要
+PHP8.1+PHPUnitの開発環境
+
 # SETUP
-- docker compose up -d --build
+1. docker compose up -d --build
+2. docker compose exec app composer install
 
 # PHPファイルの実行
 - docker compose exec app php {filename}
