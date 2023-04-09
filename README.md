@@ -1,5 +1,5 @@
 # 概要
-PHP8.1+PHPUnitの開発環境
+PHP8.1+PHPUnitのリポジトリテンプレート
 
 # SETUP
 1. docker compose up -d --build
